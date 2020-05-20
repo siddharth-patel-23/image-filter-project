@@ -1,5 +1,5 @@
 URLs:
-# Git repo URl:
+# Git repo URL:
 https://github.com/siddharth-patel-23/image-filter-project
 
 # Link to endpoint URL:
